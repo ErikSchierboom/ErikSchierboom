@@ -13,6 +13,6 @@ Besides writing software, I have a passion for sharing knowledge. As such, I'm m
 
 ---
 
-![Erik Schierboom's GitHub stats](https://github-readme-stats.sabesansathananthan.vercel.app/api?username=erikschierboom&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical)
+![Erik Schierboom's GitHub stats](https://github-readme-stats.sabesansathananthan.vercel.app/api?username=nayan2&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical)
 
-![Erik Schierboom's most used languages](https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=erikschierboom&layout=compact&theme=radical)
+![Erik Schierboom's most used languages](https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=nayan2&layout=compact&theme=radical)
