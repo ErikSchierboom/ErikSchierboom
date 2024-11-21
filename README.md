@@ -1,11 +1,12 @@
 ### Hi there 👋!
 
-I'm Erik Schierboom, a developer based in The Netherlands. Writing software is probably my greatest passion! I have written software in many languages, but I'm particularly fond of F#, Nim, Kotlin and Clojure.
+I'm Erik Schierboom, a polyglot developer with a passion for teaching.
+I loves learning new programming languages and try to learn one each year.
+I've built websites, mobile apps and open-source libraries, mostly in the education space.
+In the last 5 years I've worked at Exercism to build the optimal learning experience for 70+ programming languages.
 
-Besides writing software, I have a passion for sharing knowledge. As such, I'm mentoring the C# and F# tracks on exercism.io, posting on Stack Overflow, creating demo applications and libraries and writing blog posts. I'm also a member of the .NET foundation, have been interviewed on exercism.io and have done a guest lecture or two.
-
-- 🔭 I’m currently working on [Exercism](https://exercism.org)
-- 🌱 I’m currently learning Elixir
+- 🔭 I’m currently working on adding a [Uiua](https://www.uiua.org/) track to [Exercism](https://exercism.org)
+- 🌱 I’m currently learning Uiua
 - 🤔 I’m looking for help with building Exercism's language tracks
 - 💬 Ask me about C#, F# or Exercism
 - 📫 How to reach me: 
