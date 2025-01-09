@@ -13,4 +13,5 @@ In the last 5 years I've worked at Exercism to build the optimal learning experi
 ---
 
 [![ErikSchierboom's GitHub stats](https://github-readme-stats.vercel.app/api?username=erikschierboom)](https://github.com/anuraghazra/github-readme-stats)
+
 ![ErikSchierboom's most used languages](https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=erikschierboom&layout=compact&theme=radical)
